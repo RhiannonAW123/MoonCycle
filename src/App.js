@@ -18,6 +18,7 @@ function App() {
           Learn Reacto
         </a>
       </header>
+      <p>"The Change I made"</p>
     </div>
   );
 }
